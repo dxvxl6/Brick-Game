@@ -28,16 +28,6 @@ Classic Games Launcher - это приложение на C# (Windows Forms), к
 
 УСТАНОВКА :
 
--Клонируйте репозиторий:
-
-https://github.com/ваш-username/classic-games-launcher.git](https://github.com/dxvxl6/Brick-Game
-
--Откройте решение в Visual Studio (файл .sln)
-
--Соберите и запустите проект
-
-ИЛИ
-
 -Сохраните файл Classic Games Launcher.exe
 
 -Запустите проект
