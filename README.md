@@ -36,6 +36,12 @@ https://github.com/ваш-username/classic-games-launcher.git](https://github.co
 
 Соберите и запустите проект
 
+ИЛИ
+
+Сохраните файл Classic Games Launcher.exe
+
+Запустите проект
+
 СИСТЕМНЫЕ ТРЕБОВАНИЯ :
 
 Windows 7 или новее
