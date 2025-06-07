@@ -1,0 +1,15 @@
+C:\Users\artem\source\repos\brick game 3.0\brick game 3.0\obj\Debug\brick game 3.0.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\brick game 3.0\brick game 3.0\obj\Debug\ClassicGamesLauncher.ArkanoidGame.resources
+C:\Users\artem\source\repos\brick game 3.0\brick game 3.0\obj\Debug\ClassicGamesLauncher.MainForm.resources
+C:\Users\artem\source\repos\brick game 3.0\brick game 3.0\obj\Debug\brick_game_3._0.Properties.Resources.resources
+C:\Users\artem\source\repos\brick game 3.0\brick game 3.0\obj\Debug\ClassicGamesLauncher.RacingGame.resources
+C:\Users\artem\source\repos\brick game 3.0\brick game 3.0\obj\Debug\ClassicGamesLauncher.SnakeGame.resources
+C:\Users\artem\source\repos\brick game 3.0\brick game 3.0\obj\Debug\ClassicGamesLauncher.TanksGame.resources
+C:\Users\artem\source\repos\brick game 3.0\brick game 3.0\obj\Debug\ClassicGamesLauncher.TetrisGame.resources
+C:\Users\artem\source\repos\brick game 3.0\brick game 3.0\obj\Debug\brick game 3.0.csproj.GenerateResource.cache
+C:\Users\artem\source\repos\brick game 3.0\brick game 3.0\obj\Debug\brick game 3.0.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\brick game 3.0\brick game 3.0\bin\Debug\Classic Games Launcher.exe.config
+C:\Users\artem\source\repos\brick game 3.0\brick game 3.0\bin\Debug\Classic Games Launcher.pdb
+C:\Users\artem\source\repos\brick game 3.0\brick game 3.0\obj\Debug\Classic Games Launcher.exe
+C:\Users\artem\source\repos\brick game 3.0\brick game 3.0\obj\Debug\Classic Games Launcher.pdb
+C:\Users\artem\source\repos\brick game 3.0\brick game 3.0\obj\Debug\brick game 3.0.csproj.CopyComplete
